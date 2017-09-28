@@ -21,11 +21,11 @@ representative_photo: /assets/img/2017/charities/charity-reps/AO_JeffBomben.png
 representative_bio: Meet Jeff Bomben. Jeff currently serves as the Communications Coordinator for Autism Ontario. He has worked in the non-profit sector for close to three years now after beginning his career in sports. In his role with Autism Ontario, some of his duties include maintaining the website, updating the provincial social media pages and handling all the media requests.
 champs:
 - item1:
-  name: Kevin Chan
+  name: Kevin Chan, Business Analyst, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-ao-kevin.png
   bio: As a Business Analyst at Capital One, I wear many hats including being a business strategist, designer of new customer experiences and a quantitative analyst. My background as an industrial engineer and my fascination with AI have also led me to develop skills in building machine learning models and high-performance computing.
 - item2:
-  name: Karmandeep Batra
+  name: Karmandeep Batra, Product Owner, Canada Digital Strategy, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-ao-karmandeep.png
   bio: I am currently a Product Owner at Capital One but I have several years of experience in analytics and data visualization. I enjoy product development and thrive in the process of taking ideas to market. In terms of technical skills, I have done Android/Java development for side projects, and I use SQL and statistical tools like SAS in my day-to-day work.
 
@@ -82,9 +82,6 @@ The solutions created through Gift the Code will strengthen the autism community
   </div>
 
   <p class="content-accordion-body">
-    Why?
-    <br />
-    <br />
     Aligning with Autism Ontario’s mandate to be a source of information for the autism community, the website is full of written content and resources. To appeal to the various learning styles and make their website more visually engaging, an interactive element that communicates the vision, mission and/or impact of its work will help  better engage new visitors and convert potential donors.
   </p>
 </div>
