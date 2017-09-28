@@ -139,13 +139,14 @@
 
   .charity-rep-card {
     @include display-flex;
-    margin-top: 24px;
-    margin-bottom: 48px;
+    margin-top: 48px;
+    margin-bottom: 6px;
 
     .charity-rep-image {
-      height: 60px !important;
-      width: 60px !important;
+      height: 60px;
+      width: 60px;
       border-radius: 50%;
+      box-shadow: 0px 0px 2px 0px rgba(150,150,150,0.5);
     }
 
     .charity-rep-about-container {
@@ -236,6 +237,10 @@
       width: 100%;
       padding-left: 0;
       padding-right: 0;
+    }
+
+    .charity-rep-card {
+      margin-bottom: 36px;
     }
   }
 }
