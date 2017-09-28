@@ -21,11 +21,11 @@ representative_photo: /assets/img/2017/charities/charity-reps/Sis_CharlotteEmpey
 representative_bio: Charlotte is currently working as Unit Director, Community Liaison. She has a long history in senior publishing roles, most recently as Editor-in-Chief of Metro English Canada. Through her work, she helps define communications goals and objectives and identifies the audience psychographic – the key to understanding who they are and what kind of stories will move them most. She also develops a strategic plan and manages a team of cross-platform professionals to create stories that cut through the clutter and capture hearts, minds and the collective imagination.
 champs:
 - item1:
-  name: Jean Stewart
+  name: Jean Stewart, Senior Software Engineer, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-sistering-jean.png
   bio: I have extensive professional experience in the development cycle of software and a strong handle in translating business requirements into technical design. As a Developer, I am proficient in Java, database, back-end service architecture and implementation.
 - item2:
-  name: Mahtab Sabet
+  name: Mahtab Sabet, Senior Software Engineer, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-sistering-mahtab.png
   bio: I am a Full-Stack Developer at Capital One, working primarily with Java, C# and JavaScript, as well as Angular and React for front-end work. Outside of work, I’m a passionate game developer, working with C# in Unity.
 ---
