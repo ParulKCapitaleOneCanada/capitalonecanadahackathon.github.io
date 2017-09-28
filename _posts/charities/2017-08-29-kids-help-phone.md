@@ -21,11 +21,11 @@ representative_photo: /assets/img/2017/charities/charity-reps/KHP_TedKaiser.png
 representative_bio: Ted Kaiser, Vice President of Technology and Innovation, has been harnessing technology to serve kids and drive success since he joined Kids Help Phone in 1990. Ted launched the first award-winning website for the charity in 1996 and has been leading innovation for the organization ever since. Ted’s broad vision is to continue to expand the counselling, counselling-related, and broader organizational operations of Kids Help Phone by supporting the skills and processes of collaboration and innovation; this is consistent with his commitment to compassionate, non-judgmental counselling service delivery, through the creative use and innovative application of technology.
 champs:
 - item1:
-  name: Ian Whitestone
+  name: Ian Whitestone, Senior Data Scientist, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-khp-ian.png
   bio: As a Data Scientist at Capital One, I have gained significant experience building databases, ETL pipelines and data-driven products.
 - item2:
-  name: Aaron Murray
+  name: Aaron Murray, Product Owner, Real Time Product Matching, Capital One Canada
   photo: /assets/img/2017/charities/charity-champs/champ-khp-aaron.png
   bio: I have over 3 years of experience consulting for non-profits, helping them define strategy and implement a variety of solutions and new technologies. Since business school, I have been drawn to technical analytics roles. At Capital One, my work specializes in application analysis and improving the experience for new customers.
 ---
